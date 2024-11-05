@@ -1,5 +1,3 @@
-# Blue Core: A Community-Operated, Shared BIBFRAME Datastore
-
 ## Blue Core Vision
 
 We imagine the development of a new library metadata environment with linked data at its core that is cooperatively shaped and owned, eliminating the need for every institution to establish linked data tooling locally. This new socio-technical system will be designed from the start to enable broad and equitable participation. It will avoid the need to copy and synchronize metadata between systems, other than for downstream uses such as indexing to support searching in local systems, or seeding operational records for circulation or acquisitions. It will support a clear separation of shared bibliographic data (e.g. BIBFRAME Works and Instances) from locally managed, institutional data (holdings and administrative data stored in library service platforms like FOLIO and Alma).
