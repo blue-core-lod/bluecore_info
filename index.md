@@ -4,7 +4,9 @@ We imagine the development of a new library metadata environment with linked dat
 
 ## What is Blue Core?
 
-The James Madison Memorial Building at the Library of Congress is the largest library building in the world. Opened in 1980, it serves as the nation's official memorial to President James Madison, and contains several reading rooms and staff areas. The Madison Building is divided into four "cores": green, red, yellow, and blue. Doors and accents painted the color of the corresponding core orient individuals navigating their way through its many corridors. Initial planning phases for the Blue Core project occurred in the blue core of the Madison Building, and is a nod to its origins. Blue Core aims to create a community-operated BIBFRAME datastore where ownership and creation of the metadata are shared among member institutions, eliminating the need for duplicative institutional copies, and bringing library linked open data to production at scale.
+Blue Core aims to create a community-operated BIBFRAME datastore where ownership and creation of the metadata are shared among member institutions, eliminating the need for duplicative institutional copies, and bringing library linked open data to production at scale.
+
+Why the name Blue Core? The James Madison Memorial Building at the Library of Congress is the largest library building in the world. Opened in 1980, it serves as the nation's official memorial to President James Madison, and contains several reading rooms and staff areas. The Madison Building is divided into four "cores": green, red, yellow, and blue. Doors and accents painted the color of the corresponding core orient individuals navigating their way through its many corridors. Initial planning phases for the Blue Core project occurred in the blue core of the Madison Building, and is a nod to its origins. 
 
 ## Participation
 
