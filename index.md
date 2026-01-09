@@ -16,18 +16,9 @@ Blue Core is a co-created and co-owned linked data environment. Those who contri
 
 Blue Core will be more successful and able to grow if there are other ways to engage, either as a prelude to joining the core group or as a long-term arrangement. The shared nature of Blue Core data means that any contributors or editors follow community norms. Support for the open aspect requires access mechanisms that nonetheless have resource implications and require a service level commitment to support production reuse. Finally, institutional and vendor stakeholders may be engaged with outreach, training, and development whether or not they are data contributors or users.
 
-## Presentations
+## Presentations and Publications
 
-| Title | Presenter(s) | Venue | Location | Date | Links |
-| ----- | ------------ | ----- | -------- | ---- | ----- |
-| The Future of Metadata is Open: Blue Core and FOLIO | Laura Daniels, Nancy Lorimer, Kalli Mathios, Simeon Warner, Steven Folsom, Jeremy Nelson | WOLFcon 2025 | Kansas City, MO and Online | September 24, 2025 | [recording](https://www.youtube.com/watch?v=GF0ITIpXCtk&list=PLMocoPoiGkwcUSiOjdssz_2iXrYwf7cR4&index=52&pp=iAQB0gcJCfwJAYcqIYzv), [slides](https://static.sched.com/hosted_files/wolfcon2025/f4/Blue%20Core%20Panel%20WOLFcon-2025.pptx) |
-| Connecting the Dots: Modular Design for BIBFRAME Implementation with Blue Core | Kalli Mathios, Jeremy Nelson | BFWE 2025 | Naples, Italy | September 17, 2025 | [recording](https://youtu.be/RrQJdb_MqDI), [slides](https://www.bfwe.eu/attachments/bfwe25-2-02-mathios-nelson.pdf) |
-| Navigating the Edges: A Design Approach to Blue Core | Nancy Lorimer, Kalli Mathios, Jeremy Nelson, Laura Daniels | LD4 2025 Conference | online | July 28, 2025 | [recording](https://youtu.be/wpxfeYtcC9g), [slides](https://docs.google.com/presentation/d/10izcUcesk--Py8oNSfIomP1Qi-zP_FU2DSR2zjW0iEs/edit) |
-| Designing Blue Core: Enabling Scalable, Collaborative Linked Data for Libraries | Kalli Mathios | LD4 2024 Conference | online | October 11, 2024 | [recording](https://youtu.be/ya9U3XeRR3o), [slides](https://static.sched.com/hosted_files/2024ld4/53/Designing%20Blue%20Core_%20Enabling%20Scalable%2C%20Collaborative%20Linked%20Data%20for%20Libraries%20-%20LD4%202024.pptx?_gl=1*13goaf6*_gcl_au*MTQ2NTc0MDg5MS4xNzMyMTE0OTkwLjE2MTMyNDcyMDYuMTczMjExNTA1Ni4xNzMyMTE1MDU2*FPAU*MTQ2NTc0MDg5MS4xNzMyMTE0OTkw) |
-| Blue Core: A Community-Operated, Shared BIBFRAME Data Store | Tom Cramer, Simeon Warner | CNI Fall Member Meeting | Washington DC | December 12, 2023 | [recording](https://www.cni.org/topics/digital-libraries/blue-core-a-community-operated-shared-bibframe-data-store), [slides](https://docs.google.com/presentation/d/1giMpVobo9cVEGN7soAZXDWdBi8QgAqOBk3HUFdvWpeQ/edit#slide=id.p) |
-| Blue Core: LD4P Phase 4: Truly Shared Data in an Institutionally Neutral Data Pool | Phil Schruer, Tom Cramer, Simeon Warner | DCMI 2023 | Daegu, Korea | November 7, 2023 | [slides](https://docs.google.com/presentation/d/1v_mqHrHxrLOaeanoswftTuXn2lubxKRhUtgNSZyRKuE/edit#slide=id.p) |
-| Linked Data for Production Phase 4: Truly Shared Data in an Institutionally Neutral Data Pool | Philip E. Schreur, Tom Cramer, Jason Kovari, Simeon Warner | BIBFRAME Europe 2023 | Brussels, Belgium and Online | September 19, 2023 | [recording](https://www.youtube.com/watch?v=hoWk1vcvsi4), [slides](https://www.bfwe.eu/attachments/bfwe23-schreur-cramer-kovari-warner.pdf) |
-| Truly Shared Cataloging Ecosystem Development Workshop | Jason Kovari, Simeon Warner | SWIB 2023 | Berlin, Germany | September 11, 2023 | [report](https://hdl.handle.net/1813/113825) |
+See [presentations](presentations) and [publications](publications) about Blue Core.
 
 ## Partner Libraries
 
