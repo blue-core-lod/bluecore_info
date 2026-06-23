@@ -8,7 +8,7 @@ Blue Core aims to create a community-operated BIBFRAME datastore where ownership
 
 ## Timeline
 
-Initial discussion of the Blue Core vision started in 2023 and then progressed into planning with the current set of partner libraries in 2024. The focus of 2025 will be development of a prototype to demonstrate key aspects of a modular technical system that supports shared cataloging norms. The prototype will be refined to create a minimum viable product in 2026.
+Initial discussion of the Blue Core vision started in 2023 and then progressed into planning with the current set of partner libraries in 2024. In 2025 the partners developed a prototype that demonstrated key aspects of a modular technical system that supports shared cataloging norms. The focus of 2026 and early 2027 is refinement of the prototype to create a minimum viable product system that can be used for selected cataloging workflows by partner libraries.
 
 ## Participation
 
